@@ -133,4 +133,10 @@ button.full-screen:hover {opacity: 1;}
 	#maximage {
 		height: 1739px!important;
 	}
+	.main-nav {
+		position: fixed!important;
+	}
+	#logo {
+		position: fixed!important;
+	}
 }
