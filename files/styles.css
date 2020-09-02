@@ -124,3 +124,13 @@ button.full-screen:hover {opacity: 1;}
 #arrow_left {
 	right:95px;
 }
+
+@media screen and (max-width: 769px) {
+	div.mc-image {
+		height: 1739px!important;
+	}
+	#maximages,
+	#maximage {
+		height: 1739px!important;
+	}
+}
