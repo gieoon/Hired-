@@ -139,4 +139,7 @@ button.full-screen:hover {opacity: 1;}
 	#logo {
 		position: fixed!important;
 	}
+	p, h5 {
+		max-width: 460px;
+	}
 }
